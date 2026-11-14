@@ -7,10 +7,13 @@ cache/
 *.log
 .DS_Store
 
-# Demonstration video is shared separately.
+# Ignore other recordings; include the final edited team demonstration.
 *.webm
 *.mp4
 *.mov
 *.mkv
 *.avi
 Team02_FP_Final_Package.zip
+
+# Final edited demonstration, explicitly included.
+!/FinanceVideo.mp4
