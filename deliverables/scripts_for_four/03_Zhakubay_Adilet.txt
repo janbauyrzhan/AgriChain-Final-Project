@@ -1,0 +1,11 @@
+Zhakubay Adilet
+ТЕКСТ ДЛЯ ЗАЩИТЫ ПРЕЗЕНТАЦИИ
+
+Твои слайды: 5, 6.
+Порядок соответствует готовой презентации. Читай английские абзацы; заголовки SLIDE и время вслух не произноси. На слайде 6 запускается общее видео, оно входит в 10 минут защиты.
+
+SLIDE 5 — Adilet — 35 seconds
+The implemented prototype is Solidity 0.8.24 on the local Hardhat EVM. A custodian registers and splits batches, a sender dispatches, a receiver confirms and a reviewer handles issues. Our conceptual production direction is a permissioned Fabric consortium using Raft. SmartBFT is an alternative fault model. Neither production consortium is deployed, and moving to Fabric would require porting and retesting the contract logic.
+
+SLIDE 6 — Adilet — PLAY VIDEO 1 minute 58 seconds
+The video shows actual compilation, deployment, the full workflow, rejected invalid actions and all fifteen unit tests passing. It uses captions and local synthetic accounts only.

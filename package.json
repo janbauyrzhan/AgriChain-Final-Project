@@ -1,0 +1,22 @@
+{
+  "name": "agrichain-local-prototype",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Educational AgriChain local blockchain prototype",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "demo": "hardhat run scripts/demo.js",
+    "demo:local": "hardhat run scripts/demo.js --network localhost"
+  },
+  "devDependencies": {
+    "hardhat": "2.22.17",
+    "@nomicfoundation/hardhat-ethers": "3.0.8",
+    "@nomicfoundation/hardhat-chai-matchers": "2.0.8",
+    "ethers": "6.13.4",
+    "chai": "4.5.0",
+    "solc": "0.8.24"
+  }
+}

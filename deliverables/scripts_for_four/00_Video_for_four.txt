@@ -1,0 +1,31 @@
+ОБЩЕЕ ВИДЕО ПРОТОТИПА — ТЕКСТ НА ЧЕТВЕРЫХ
+
+По заданию требуется одно видео на команду, до 3 минут: развёртывание контракта в локальной сети, основной сценарий по шагам и проходящие unit tests. Объяснение можно дать голосом ИЛИ подписями. Появление всех четверых в кадре и четыре отдельных видео не требуются.
+
+Готовое Team02_FP_Demo.webm уже длится 1:58 и содержит подписи. Его можно использовать без новой съёмки. Если хотите добавить свои голоса, ниже реплики под его тайминг. Можно записать четыре аудиофрагмента и наложить их на один ролик. Камера не нужна. Имена в заголовках вслух не произносите.
+
+1. BAYZHAN BAUYRZHAN — 0:00–0:20
+Экран: начало и компиляция локального контракта.
+
+This is AgriChain, our educational grain traceability prototype. Everything runs on a local Hardhat network with synthetic data. We first compile the Solidity contract. The prototype uses no real money, tokens or personal data.
+
+2. ZHAKUBAY ADILET — 0:20–0:45
+Экран: развёртывание, назначение ролей, регистрация G001 и хеш документа.
+
+We deploy the contract and assign separate roles to local test accounts. The custodian registers batch G001 with one hundred thousand kilograms of wheat and stores a synthetic document fingerprint. The fingerprint helps detect file changes, but does not prove that the original document is true.
+
+3. YERGESHBAY YERKEZHAN — 0:45–1:15
+Экран: получение партии, неверное и правильное разделение, решение проблемы и запрет чужого доступа.
+
+The sender records dispatch, and a separate receiver confirms receipt. The contract rejects a split whose quantities do not match the parent. A valid split creates two child batches of fifty thousand kilograms each. The reviewer records and resolves an issue. An unrelated account cannot register a batch.
+
+4. YERKIN ALNUR — 1:15–1:58
+Экран: запуск тестов, результат 15 passing и итоговая подпись.
+
+We now run all fifteen unit tests. They check access rights, batch identifiers, document fingerprints, handover order and quantity conservation. All fifteen tests pass. The demonstration confirms the local workflow and its tested controls. It does not establish commercial demand or production security. Our financial model is a separate educational scenario, and the prototype does not accept payments or investment.
+
+КАК СДАТЬ ВИДЕО
+Загрузите общий ролик на Google Drive или аналогичный сервис и разрешите просмотр всем по ссылке. Ссылка нужна на титульном листе отчёта, титульном слайде и в README. Не показывайте приватные ключи, seed phrase, .env или персональные данные. Живая защита длится 10 минут, включая это видео; вопросы — ещё 5 минут.
+
+GITHUB
+Репозиторий опубликован: https://github.com/janbauyrzhan/AgriChain-Final-Project. Каждый участник должен сделать настоящий коммит со своего аккаунта. Локальные файлы и ZIP не являются опубликованным репозиторием.

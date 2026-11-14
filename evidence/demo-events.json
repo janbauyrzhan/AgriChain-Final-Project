@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Educational simulation",
+    "detail": "Local Hardhat EVM. Synthetic grain batches. No payments, tokens or real assets.",
+    "time": "2026-11-14T15:10:20.945Z"
+  },
+  {
+    "title": "1. Contract deployed",
+    "detail": "AgriChainRegistry: 0x5FbDB2315678afecb367f032d93F642f64180aa3\nNetwork: hardhat, chain ID 31337. Four separate business test accounts.",
+    "time": "2026-11-14T15:10:27.433Z"
+  },
+  {
+    "title": "2. Batch registered",
+    "detail": "Custodian registers G001: Wheat, 100,000 kg. Status REGISTERED.",
+    "time": "2026-11-14T15:10:32.458Z"
+  },
+  {
+    "title": "3. Document fingerprint stored",
+    "detail": "Fingerprint: 0x555e5cac55e0cad1b72cd06e8f23b2836df482927b523acf21d2c2fe47ecbede\nA changed file has a different hash. This does not certify the original document.",
+    "time": "2026-11-14T15:10:37.485Z"
+  },
+  {
+    "title": "4. Dispatch recorded",
+    "detail": "Sender records dispatch. Status DISPATCHED.",
+    "time": "2026-11-14T15:10:42.498Z"
+  },
+  {
+    "title": "5. Receipt confirmed",
+    "detail": "A different receiver account confirms receipt. Status RECEIVED.",
+    "time": "2026-11-14T15:10:47.525Z"
+  },
+  {
+    "title": "6. Invalid split rejected",
+    "detail": "50,000 + 40,000 does not equal 100,000 kg. Contract returns QUANTITY_MISMATCH.",
+    "time": "2026-11-14T15:10:52.573Z"
+  },
+  {
+    "title": "7. Valid split recorded",
+    "detail": "G001A and G001B each contain 50,000 kg. Each child points to G001. Parent status SPLIT.",
+    "time": "2026-11-14T15:10:57.601Z"
+  },
+  {
+    "title": "8. Issue resolved",
+    "detail": "Reviewer appends an issue and resolution. Event history remains available.",
+    "time": "2026-11-14T15:11:02.619Z"
+  },
+  {
+    "title": "9. Access control checked",
+    "detail": "An unrelated test account cannot register a batch. Contract returns ACCESS_DENIED.",
+    "time": "2026-11-14T15:11:07.642Z"
+  }
+]

@@ -1,0 +1,20 @@
+Bayzhan Bauyrzhan
+ТЕКСТ ДЛЯ ЗАЩИТЫ ПРЕЗЕНТАЦИИ
+
+Твои слайды: 1, 2, 3, 12, 13.
+Порядок соответствует готовой презентации. Читай английские абзацы; заголовки SLIDE и время вслух не произноси. На слайде 6 запускается общее видео, оно входит в 10 минут защиты.
+
+SLIDE 1 — Bayzhan — 20 seconds
+We are Team 02 from SE-2517. AgriChain is our educational grain traceability project. We evaluate a local prototype, its risks and a financial scenario. This is a classroom simulation with synthetic data and no real investment offer.
+
+SLIDE 2 — Bayzhan — 35 seconds
+Our problem hypothesis is the effort of reconstructing batch identifiers and document versions across organisations. Warehouse staff could use the service, while a processor or exporter could pay. The public register has 323 raw records. Mixed statuses and duplicate operators mean that this is not a verified customer count. We do not claim interviews, customers or measured savings.
+
+SLIDE 3 — Bayzhan — 35 seconds
+We focus on one synthetic wheat batch of 100,000 kilograms. The service records its registration, document fingerprint, dispatch, receipt and split into two equal children. A reviewer can add an issue and its resolution. A fingerprint helps detect a later file change. It cannot establish the truth of the original document or physical grain.
+
+SLIDE 12 — Bayzhan — 30 seconds
+Our main result is a tested local workflow and a transparent model with stated limits. The next commercial decision depends on validating the payer, price and workflow and comparing a database baseline. We invite the panel to assess the conditional terms against the risks, before treating a larger commitment as justified.
+
+SLIDE 13 — Bayzhan — 10 seconds
+We disclose ChatGPT and Codex using GPT-6. Assistance included text revisions, financial verification, the monthly extension, routine tests and the presentation. Every member must independently review and explain the adopted work.

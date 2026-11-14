@@ -1,0 +1,34 @@
+
+Educational simulation
+Local Hardhat EVM. Synthetic grain batches. No payments, tokens or real assets.
+
+1. Contract deployed
+AgriChainRegistry: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+Network: hardhat, chain ID 31337. Four separate business test accounts.
+
+2. Batch registered
+Custodian registers G001: Wheat, 100,000 kg. Status REGISTERED.
+
+3. Document fingerprint stored
+Fingerprint: 0x555e5cac55e0cad1b72cd06e8f23b2836df482927b523acf21d2c2fe47ecbede
+A changed file has a different hash. This does not certify the original document.
+
+4. Dispatch recorded
+Sender records dispatch. Status DISPATCHED.
+
+5. Receipt confirmed
+A different receiver account confirms receipt. Status RECEIVED.
+
+6. Invalid split rejected
+50,000 + 40,000 does not equal 100,000 kg. Contract returns QUANTITY_MISMATCH.
+
+7. Valid split recorded
+G001A and G001B each contain 50,000 kg. Each child points to G001. Parent status SPLIT.
+
+8. Issue resolved
+Reviewer appends an issue and resolution. Event history remains available.
+
+9. Access control checked
+An unrelated test account cannot register a batch. Contract returns ACCESS_DENIED.
+
+DEMO PASSED: all state and rejection checks succeeded.

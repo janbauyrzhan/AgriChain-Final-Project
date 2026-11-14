@@ -1,0 +1,16 @@
+node_modules/
+artifacts/
+cache/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+
+# Demonstration video is shared separately.
+*.webm
+*.mp4
+*.mov
+*.mkv
+*.avi
+Team02_FP_Final_Package.zip

@@ -1,0 +1,24 @@
+
+
+  AgriChainRegistry
+    √ allows an authorised custodian to register a batch
+    √ rejects an unauthorised batch registration
+    √ rejects duplicate batch identifiers
+    √ records dispatch and requires the receiver role for receipt
+    √ stores a document fingerprint and rejects an empty hash
+    √ splits a received batch only when child quantities equal the parent
+    √ allows a reviewer to flag and resolve an issue without deleting the batch
+    √ does not allow a non-reviewer to resolve an issue
+
+  AgriChain validation and event history
+    √ rejects an outsider attempting to grant a business role
+    √ rejects granting a role to the zero address
+    √ rejects empty batch identifiers and zero quantities
+    √ rejects receipt before dispatch
+    √ rejects an empty child ID and keeps parent and children unchanged
+    √ rejects duplicate child IDs and a second split
+    √ preserves both document hash events when the current fingerprint changes
+
+
+  15 passing (709ms)
+
