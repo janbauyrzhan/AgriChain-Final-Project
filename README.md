@@ -8,22 +8,16 @@ Team 02, group SE-2517. This is the Final Project continuation of the team's Agr
 
 - [Final report PDF](deliverables/Team02_FP_Report.pdf): 15 pages from Introduction to Conclusion, plus references and Appendices A–E.
 - [PowerPoint presentation](deliverables/Team02_FP_Presentation.pptx): 14 main slides and 3 backup slides, with speaker notes and editable tables, charts and a sequence diagram.
-- [Individual self-evaluation template](deliverables/Team02_FP_SelfEval_TEMPLATE.pdf): each student must enter their own actual contribution.
-- [Presentation speaking notes and finance questions](deliverables/Team02_Defense_Notes.txt).
-- [Separate scripts for the four team members](deliverables/scripts_for_four).
 - [Course requirements](requirements/Final_Project_Requirements.docx).
 - [Instructor's BlockSupply example](requirements/Final_Project_Example_BlockSupply.docx): a separate course reference, not our startup or financial model.
-- [Submission checklist](SUBMISSION_CHECKLIST.md).
 
 Repository: https://github.com/janbauyrzhan/AgriChain-Final-Project
 
 ## Demonstration video
 
-The video is shared separately and is intentionally excluded from this repository and its download archives, as requested by the team. Its public viewing link still needs to be inserted on the report title page, title slide and in this README before Moodle submission.
+[Watch the final team demonstration on Google Drive](https://drive.google.com/file/d/13M_peAYc0KzTbws3YfLRy78pVaor4h2Q/view?usp=drive_link) (1 minute 58 seconds).
 
-Video link: **pending separate upload**.
-
-The locally prepared demonstration is 1 minute 58 seconds long and shows actual local compilation, deployment, the core workflow and all 15 tests passing, with explanatory captions. The course permits voice-over or captions and requires one team video of up to 3 minutes.
+The same video link appears on the report title page and the presentation title and demonstration slides. One common team demo of up to 3 minutes is required. The video is hosted on Google Drive.
 
 ## Install and run the local prototype
 

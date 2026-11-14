@@ -4,7 +4,7 @@ Group SE-2517. Responsibility areas follow the supplied Team 02 draft. They are 
 
 | Student | Responsibility area | Actual work and contribution |
 | --- | --- | --- |
-| Bayzhan Bauyrzhan | Problem, introduction and conclusion | Student to confirm |
+| Baizhan Bauyrzhan | Problem, introduction and conclusion | Student to confirm |
 | Yergeshbay Yerkezhan | Market, risks and coordination | Student to confirm |
 | Zhakubay Adilet | Prototype, tests and security | Student to confirm |
 | Yerkin Alnur | Financial model and investment arithmetic | Student to confirm |
