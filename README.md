@@ -19,12 +19,11 @@ Repository: https://github.com/janbauyrzhan/AgriChain-Final-Project
 
 ## Demonstration video
 
-- [Final edited demonstration video](FinanceVideo.mp4) (MP4, 1 minute 58 seconds).
-- [Download the MP4](https://github.com/janbauyrzhan/AgriChain-Final-Project/raw/refs/heads/main/FinanceVideo.mp4).
+The video is shared separately and is intentionally excluded from this repository and its download archives, as requested by the team. Its public viewing link still needs to be inserted on the report title page, title slide and in this README before Moodle submission.
 
-Video link: https://github.com/janbauyrzhan/AgriChain-Final-Project/blob/main/FinanceVideo.mp4
+Video link: **pending separate upload**.
 
-The team-edited video is committed in this repository. The video link is also included on the report title page and the presentation title and demonstration slides. The course requires one common team demo of up to 3 minutes.
+The locally prepared demonstration is 1 minute 58 seconds long and shows actual local compilation, deployment, the core workflow and all 15 tests passing, with explanatory captions. The course permits voice-over or captions and requires one team video of up to 3 minutes.
 
 ## Install and run the local prototype
 

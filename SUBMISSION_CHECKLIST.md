@@ -15,8 +15,8 @@
 
 ## Team actions before Moodle submission
 
-- [x] Commit the final edited team demonstration as FinanceVideo.mp4 (1 minute 58 seconds).
-- [x] Include the final video link on the report title page, title slide and README.
+- [ ] Upload the common demo video separately with public viewing by link. The video itself is excluded from this GitHub repository.
+- [ ] Insert its viewing link in the report title page, title slide and README.
 - [ ] Each student confirms page and slide responsibility and their real contribution.
 - [ ] Each student makes genuine commits from their own GitHub account.
 - [ ] Each student completes a truthful self-evaluation and saves it as Team02_FP_SelfEval_LastName_FirstName.pdf.
