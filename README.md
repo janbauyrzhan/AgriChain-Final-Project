@@ -57,9 +57,11 @@ Hardhat is a local EVM demonstration. The conceptual Hyperledger Fabric consorti
 
 ## Team contributions and AI disclosure
 
-Responsibility areas follow the supplied team draft in [CONTRIBUTIONS.md](CONTRIBUTIONS.md). Every student must confirm actual work and make genuine commits from their own GitHub account. This upload does not fabricate a four-person commit history or contribution percentages.
+Team responsibility areas are outlined in [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
 
-OpenAI ChatGPT and Codex (GPT-6) assisted with text revisions, verification of the supplied financial model, the monthly liquidity extension, routine test and demonstration code, presentation preparation and supporting materials. Each student must independently review and explain the adopted design, assumptions, calculations and conclusions. See [AI disclosure](AI_DISCLOSURE.md).
+OpenAI ChatGPT and Codex (GPT-6) assisted with report revisions, financial model verification, development of the monthly liquidity schedule, routine code and test drafting, and presentation preparation.
+
+The team remains responsible for the final content, calculations and conclusions. Further details are provided in [AI_DISCLOSURE.md](AI_DISCLOSURE.md).
 
 ## Licence
 
